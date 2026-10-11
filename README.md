@@ -59,7 +59,7 @@ Copy and paste this into any AI coding app (Cursor, Windsurf, Claude Code, Grok,
 * **Parent Collection**: [kirby-skills](https://github.com/markkirby125/kirby-skills)
 * **Master Directory**: [kirby-skills-collection](https://github.com/markkirby125/kirby-skills-collection)
 * **Category**: Design / Agent Ops
-* **Skill Author**: William Fitzpatrick (Kirby Skills Library)
+* **Skill Author**: [Paul Kirby](https://github.com/markkirby125) (Kirby Skills Library)
 * **Source Video**: "My Entire AI Design System" — Brad Bonanno | AI Automation
 * **Direct Video URL**: https://youtu.be/z0j6oouLG3g
 

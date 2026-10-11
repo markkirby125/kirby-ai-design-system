@@ -4,7 +4,7 @@ description: "Use when deploying a Tri-Part AI Design System: DOM-native canvas 
 category: technique
 triggers: [ai-design-system, dom-native-canvas, paper-design, paper-mcp, higgsfield, thumbnail-design, thumbnail-pipeline, lead-magnet-pdf, brand-tokens, design-tokens, flat-pixel-trap]
 risk: unverified
-author: william-fitzpatrick
+author: paul-kirby
 tags: [kirby, ai-agent, workflow]
 ---
 
