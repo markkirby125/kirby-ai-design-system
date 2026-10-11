@@ -13,7 +13,7 @@ This skill deploys Tri-Part AI Design Systems and orchestrates DOM-native canvas
 - You are standing up an AI design system for a brand: context wiki, brand-guidelines skill, or MCP toolstack (Module 1).
 - You are editing designs programmatically: swapping text, restyling layers, reflowing layouts, or injecting generated assets without regenerating the canvas (Module 2).
 - You are producing YouTube thumbnails: isolated subject cutouts + bold DOM typography + shader backgrounds (Module 3). Full faceless-video production context: `../../kirby-yt-faceless-formula/SKILL.md`.
-- You are generating multi-page branded PDF guides or lead magnets with direct vector export (Module 4). Copy frameworks and objection-demolition hierarchy: `../../kirby-text-first-cro/SKILL.md` Module 1.
+- You are generating multi-page branded PDF guides or lead magnets with direct vector export (Module 4). Copy frameworks and objection-demolition hierarchy: `../../kirby-text-first-cro/SKILL.md` §14 (DOM-native lead-magnet layouts).
 - You are resizing one design across 16:9 / 1:1 / 9:16 without layout drift (Modules 2–4).
 - You are auditing brand color tokens for WCAG 2.1 AA / RNIB contrast BEFORE canvas rendering: `../../kirby-accessible-contrast/SKILL.md`.
 - You are verifying or updating the Paper MCP server / Higgsfield connector installation: Module 5 routes to `../../kirby-agent-security/SKILL.md` Module 1.
