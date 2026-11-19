@@ -11,7 +11,7 @@ A high-CTR thumbnail is three independent layers, each editable in isolation:
 ### **3.2 Production SOP**
 1.  Pull the video's hook from the Business Context Wiki / script; derive ≤6 words of thumbnail copy (one idea, not a sentence).
 2.  Assemble the three-layer scaffold on a 16:9 frame; subject occupies one golden-ratio zone, type the counter-zone, per the Brand Guidelines composition rules.
-3.  Fill the subject slot: generate 3–5 candidate cutouts; pick by expression/clarity, not novelty.
+3.  Fill the subject slot: generate 3–5 candidate cutouts; pick by expression/clarity, not novelty. Stock cutouts carry no effort or originality value (low confidence, directional).
 4.  Fill the background slot: 3–5 shader variants; pick by contrast against BOTH subject and type (the pre-render contrast verdict from `../../kirby-accessible-contrast/SKILL.md` applies to type-on-background pairs).
 5.  Reflow to 1:1 and 9:16 shorts variants (Module 2 §2.5) — same layers, adjusted safe zones.
 
